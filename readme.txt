@@ -1,1 +1,2 @@
-some information
+some information。
+add information
